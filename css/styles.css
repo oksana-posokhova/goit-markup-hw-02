@@ -19,7 +19,7 @@ ul, ol {
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -58,7 +58,7 @@ font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -125,11 +125,17 @@ font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
         color: #2e2f42;
+}
+.our-portfolio {
+    background-color: #F4F4FD;
+}
+.our-portfolio-item {
+    background-color: #FFFFFF;
 }
 .our-portfolio-list-title {
     font-family: "Roboto", sans-serif;
@@ -154,7 +160,7 @@ font-family: "Raleway", sans-serif;
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
