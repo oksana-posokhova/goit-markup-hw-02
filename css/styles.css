@@ -9,9 +9,7 @@ a{
 button {
     cursor: pointer;
 }
-img {
-    display: block;
-}
+
 ul, ol {
     list-style: none;
 }
